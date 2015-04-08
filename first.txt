@@ -29,6 +29,7 @@ public class yanghui {
    	 {
    		 System.out.printf("%5d",a[i][j]);
 	}
+
 	}
 
 }
